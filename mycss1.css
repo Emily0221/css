@@ -1,12 +1,12 @@
 books{color:navy;background-color:skyblue;width:100%}
 heading{
 color:#ffffff;
-font-size:40px;
+font-size:25px;
 background-color:#32b3f9;}
 heading,title,auther,publisher,edition,price{
 display:block;
 }
 title{
-	font-size:25px;
+	font-size:15px;
 	font-weight:bold;
 }
